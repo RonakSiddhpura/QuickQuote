@@ -10,9 +10,7 @@
 - **API Name**: Zenquotes API  
 - **API URL**: [https://zenquotes.io/api/quotes](https://zenquotes.io/api/quotes)  
 - **API Documentation**: [https://docs.zenquotes.io/zenquotes-documentation/](https://docs.zenquotes.io/zenquotes-documentation/)
-
-This API provides random inspirational quotes in JSON format.
-
+  
 ---
 
 ## 🚀 Getting Started
