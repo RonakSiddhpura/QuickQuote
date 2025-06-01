@@ -13,16 +13,7 @@
   
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v16+ recommended)
-- npm or yarn
-- Expo CLI (Install via: `npm install -g expo-cli`)
-- Expo Go App (for testing on a physical device)
-
-### Installation
+### Steps to Install and Run the App
 
 1. **Clone the repository:**
 
@@ -31,23 +22,29 @@
    cd quickquote
    ```
 
-2. **Install dependencies:**
+2. **Install Expo-cli:**
+
+   ```bash
+   npm install -g expo-cli
+   ```
+
+3. **Install dependencies:**
 
    ```bash
    npm install
    ```
 
-3. **Start the development server:**
+4. **Start the development server:**
 
    ```bash
    npx expo start
    ```
 
-4. **Run the app:**
+5. **Run the app:**
 
    - Install Expo Go:
      - [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&pcampaignid=web_share)
-     -After that scan the Qr Codeshow in the ternimal. 
+     -After that, scan the QR code shown in the terminal.
 
    - Options:
      - Use a physical device with the Expo Go app.
