@@ -7,8 +7,8 @@
 
 ## 🔗 Public API Used
 
-- **API Name**: Quotable API  
-- **API URL**: [https://api.quotable.io/random](https://api.quotable.io/random)  
+- **API Name**: Zenquotes API  
+- **API URL**: [https://zenquotes.io/api/quotes](https://zenquotes.io/api/quotes)  
 - **API Documentation**: [https://docs.zenquotes.io/zenquotes-documentation/](https://docs.zenquotes.io/zenquotes-documentation/)
 
 This API provides random inspirational quotes in JSON format.
@@ -61,7 +61,7 @@ This API provides random inspirational quotes in JSON format.
 
 ### ✅ Design
 
-- Used the Quotable API to fetch quotes.
+- Used the Zenquotes API to fetch quotes.
 - Built a clean and minimal UI using core React Native components and custom stylesheets.
 
 ### 🌟 Favorites Feature
@@ -72,6 +72,6 @@ This API provides random inspirational quotes in JSON format.
 ### 🛠️ Challenges
 
 - **Favorites Bug**: A bug where new favorites didn’t display after clearing the list was fixed using proper state management and empty-state checks.
-- **API Rate Limits**: The Quotable API imposes a rate limit. If quotes are fetched too frequently, a user-friendly error alert is displayed when the API call fails.
+- **API Rate Limits**: The Zenquotes API imposes a rate limit. If quotes are fetched too frequently, a user-friendly error alert is displayed when the API call fails.
 
 ---
